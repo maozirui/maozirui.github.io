@@ -19,7 +19,7 @@ Work experience
 ======
 * 04/2024-present: Computational Scientist | 01/2022 - 03/2024: Postdoc Associate
   * Pacific Northwest National Library \| Mentor: Dr. [Shenyang Hu](https://scholar.google.com/citations?user=_lq5saoAAAAJ&hl=en)
-  * Duties included: Develop advanced phase-field models for simulating microstructure evolution
+  * Duties included: Develop advanced micro-macro modeling capabilities for energy-related applications by coupling traditional numerical methods with ML algorithms and hierarchy HPC.
 
 * 06/2019 - 12/2021: Postdoc Researcher
   * Texas A&M University \| Supervisor: Professor [Michael J Demkowicz](https://demkowicz.tamu.edu/people/michael-j-demkowicz/)
